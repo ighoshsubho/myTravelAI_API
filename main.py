@@ -29,3 +29,4 @@ def predict(payload: data):
     Name = predict_pipeline(dict(payload))
     return {"Result": Name}
 #/workspace/myTravelAI_API/app/model/tourism.csv
+

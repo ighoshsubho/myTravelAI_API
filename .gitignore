@@ -1,3 +1,4 @@
 venv
 .ds_Store
 __pycache__
+nor.py
